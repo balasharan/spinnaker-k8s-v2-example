@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:1.7.9
+        image: addanki123/node-demo:latest
         ports:
         - containerPort: 80
